@@ -1,6 +1,74 @@
 {
   "beers": [
-    { "id": 1, "name": "Live Oak Hefewiezen", "brewer": "Live Oak", "image": "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/Live-Oak-Hefeweizen-Ale.jpeg" },
-    { "id": 2, "name": "Thirsty Goat", "brewer": "Thirsty Planet" }
+    {
+      "id": 1,
+      "name": "Live Oak Hefewiezen",
+      "brewer": "Live Oak",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/Live-Oak-Hefeweizen-Ale.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "(512) Pecan Porter",
+      "brewer": "(512) Brewing Company",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/512-Brewing-Pecan-Porter.png"
+    },
+    {
+      "id": 3,
+      "name": "Fire Eagle IPA",
+      "brewer": "Austin Beerworks",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/fire-eagle-Austin-Beerworks.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Black Metal Imperial Stout",
+      "brewer": "Jester King Brewery",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Jester-King-Black-Medal.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Zoe",
+      "brewer": "Hops and Grain Brewery",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Hops-and-Grain-Zoe.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Convict Hill Oatmeal Stout",
+      "brewer": "Independence Brewing Co.",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Independence-Brewing-Convict-Hill-Oatmeal-Stout.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bucket Head IPA",
+      "brewer": "Thirsty Planet Brewing Co.",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Thirsty-Planet-Buckethead-IPA.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Meta Modern Session IPA",
+      "brewer": "Oasis Texas Brewing Co.",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Oasis-Texas-Brewing-Meta-Modern-Session-IPA-1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tripel B Tripel",
+      "brewer": "Adelbert's Brewery",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/Adelberts-Tripel-B-Belgian.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sweep the Leg Peanut Butter Stout",
+      "brewer": "Infamous Brewing Co.",
+      "image":
+        "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/infamous-sweep-the-leg.jpg"
+    }
   ]
 }
