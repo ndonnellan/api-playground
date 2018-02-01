@@ -1,0 +1,6 @@
+{
+  "beers": [
+    { "id": 1, "name": "Live Oak Hefewiezen", "brewer": "Live Oak", "image": "https://craftbeeratx-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/Live-Oak-Hefeweizen-Ale.jpeg" },
+    { "id": 2, "name": "Thirsty Goat", "brewer": "Thirsty Planet" }
+  ]
+}
