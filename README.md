@@ -2,6 +2,7 @@
 ## Start server
 ```bash
 cd server
+npm install
 npm run start
 ```
 
@@ -14,5 +15,6 @@ npm install -g create-react-app
 Go to the app
 ```bash
 cd app
-yarn start
+npm install
+npm run start
 ```
